@@ -42,3 +42,8 @@
 
 - Initial files and starter code from Coding-Bootcamp
     - Url: https://github.com/coding-boot-camp/super-disco
+
+## URL's
+
+- Repository: https://github.com/maiyiax/work-day-scheduler
+- Deployed Site: https://maiyiax.github.io/work-day-scheduler/

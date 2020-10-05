@@ -28,3 +28,17 @@
 - THEN the text for that event is saved in local storage
 - WHEN I refresh the page
 - THEN the saved events persist
+
+## Technologies
+
+- HTML5
+- CSS3
+- Javascript
+- Bootstrap
+- JQuery
+- Moment.js
+
+## Contributors
+
+- Initial files and starter code from Coding-Bootcamp
+    - Url: https://github.com/coding-boot-camp/super-disco
